@@ -13,6 +13,7 @@
 - Certificate body: cert.pem 내용 붙여넣기
 - Certificate private key: private.key 내용 붙여넣기
 - Certificate chain - optional: cert-chain.pem 내용 붙여넣기
+![acm-certificate-import.png](acm-certificate-import.png)
 
 **3. 팁**
 - 만약 cert.pem 파일에 인증서가 여러 개 등록되어 있는 경우 (Certificate Chain인 경우)
