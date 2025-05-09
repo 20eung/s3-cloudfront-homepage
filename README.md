@@ -60,7 +60,39 @@ aws acm import-certificate \
 
 ![/Files/aws-s3-buckets-properties3.png](/Files/aws-s3-buckets-properties3.png)
 
-**5. S3 버킷 Permissions 화면**
+**5. S3 버킷으로 Static Website Hosting 설정 화면**
+
+![/Files/aws-s3-buckets-properties-static-website-hosting.png](/Files/aws-s3-buckets-properties-static-website-hosting.png)
+
+**6. S3 버킷 Permissions 화면**
 
 ![/Files/aws-s3-buckets-permissions.png](/Files/aws-s3-buckets-permissions.png)
+
+**7. CloudFront Distribution 생성 화면**
+
+![/Files/aws-cloudfront-distributions-create1.png](/Files/aws-cloudfront-distributions-create1.png)
+
+![/Files/aws-cloudfront-distributions-create2.png](/Files/aws-cloudfront-distributions-create2.png)
+
+**8. CloudFront Distribution General 화면**
+
+![/Files/aws-cloudfront-distributions-general.png](/Files/aws-cloudfront-distributions-general.png)
+
+**9. CloudFront Distribution Security 화면**
+
+![/Files/aws-cloudfront-distributions-security.png](/Files/aws-cloudfront-distributions-security.png)
+
+**10. CloudFront Distribution Origin 화면**
+
+![/Files/aws-cloudfront-distributions-origins.png](/Files/aws-cloudfront-distributions-origins.png)
+
+**11. CloudFront Distribution Behaviors 화면**
+
+![/Files/aws-cloudfront-distributions-behaviors.png](/Files/aws-cloudfront-distributions-behaviors.png)
+
+![/Files/aws-cloudfront-distributions-behaviors-edit.png](/Files/aws-cloudfront-distributions-behaviors-eidt.png)
+
+**12. CloudFront Distribution Invalidations 화면**
+
+![/Files/aws-cloudfront-distributions-create-invalidation-cloudshell.png](/Files/aws-cloudfront-distributions-create-invalidation-cloudshell.png)
 
