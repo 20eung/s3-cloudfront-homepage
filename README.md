@@ -13,7 +13,7 @@
 - Certificate body: cert.pem 내용 붙여넣기
 - Certificate private key: private.key 내용 붙여넣기
 - Certificate chain - optional: cert-chain.pem 내용 붙여넣기
-![acm-certificate-import.png](acm-certificate-import.png)
+![/Files/aws-acm-certificate-import.png](/Files/aws-acm-certificate-import.png)
 
 **3. 팁**
 - 만약 cert.pem 파일에 인증서가 여러 개 등록되어 있는 경우 (Certificate Chain인 경우)
@@ -22,8 +22,9 @@
 
 **4. AWS CLI 명령어로 인증서 업로드하는 방법**
 - AWS CloudShell 실행
-- 인증서 파일 업로드 후 아래 명령어 실행
-
+- 인증서 파일 업로드
+![/Files/aws-acm-certificate-upload-cloudshell.png](/Files/aws-acm-certificate-upload-cloudshell.png)
+- 아래 명령어 실행
 ```
 aws acm import-certificate \
 --certificate fileb://cert.pem \
