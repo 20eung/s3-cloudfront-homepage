@@ -90,7 +90,7 @@ aws acm import-certificate \
 
 ![/Files/aws-cloudfront-distributions-behaviors.png](/Files/aws-cloudfront-distributions-behaviors.png)
 
-![/Files/aws-cloudfront-distributions-behaviors-edit.png](/Files/aws-cloudfront-distributions-behaviors-eidt.png)
+![/Files/aws-cloudfront-distributions-behaviors-edit.png](/Files/aws-cloudfront-distributions-behaviors-edit.png)
 
 **12. CloudFront Distribution Invalidations 화면**
 
